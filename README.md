@@ -1,2 +1,2 @@
 # ocoulam.github.io
-For CSCE 190, Foundation 2 assignment
+Website created for CSCE 190
